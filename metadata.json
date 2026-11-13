@@ -1,0 +1,8 @@
+{
+  "name": "Maan — Beauty, Skincare & Cosmetics",
+  "description": "India's premier beauty and cosmetics marketplace featuring makeup, skincare, haircare, fragrances, and luxury beauty essentials by Maan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
